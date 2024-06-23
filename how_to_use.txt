@@ -1,0 +1,1 @@
+py batching.py -F ".\txt" -w "les_sano_sawada.py" -a "-c 1 -a 10000 -p 13000 -d 4 -t 1"
